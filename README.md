@@ -15,8 +15,9 @@ A Ecommerce Website made with React.js Framework, stripe ,firebase authenticatio
 
 ## Screenshots OF the website
 
-[https://i.ibb.co/8b2YhWW/preview.png](https://i.ibb.co/8b2YhWW/preview.png)
 
+
+![preview](https://github.com/MuhammadAli34/Fashion-Shop/assets/107616847/5c8417f1-15a7-4621-a90a-d2acff1961f1)
 
 
 ## Run Locally
