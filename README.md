@@ -24,7 +24,7 @@ A Ecommerce Website made with React.js Framework, stripe ,firebase authenticatio
 
 Clone the project
 
-```bash
+``bash
   git clone https://github.com/MuhammadAli34/Fashion-Shop
 ```
 
