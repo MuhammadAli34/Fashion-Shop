@@ -15,7 +15,7 @@ A Ecommerce Website made with React.js Framework, stripe ,firebase authenticatio
 
 ## Screenshots OF the website
 
-https://ibb.co/4dzYCQm
+https://ibb.co/Jq23hff"><img src="https://i.ibb.co/8b2YhWW/preview.png
 
 
 
