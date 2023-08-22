@@ -15,7 +15,7 @@ A Ecommerce Website made with React.js Framework, stripe ,firebase authenticatio
 
 ## Screenshots OF the website
 
-![App Screenshot](https://ibb.co/4dzYCQm)
+https://ibb.co/4dzYCQm
 
 
 
@@ -42,7 +42,7 @@ Install dependencies
 Start the server
 
 ```bash
-  npm start
+  npm run dev
 ```
 
 
